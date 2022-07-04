@@ -1,0 +1,3 @@
+# Bubble Sort Algo
+# Start with first item and compare to second item
+# If item is larger switch items
