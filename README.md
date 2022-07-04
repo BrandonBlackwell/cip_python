@@ -1,2 +1,2 @@
 # cip_python
-This repo is for coding interview questions using Python.
+This repo is for coding interview practice using Python.
