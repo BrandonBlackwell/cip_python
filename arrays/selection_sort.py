@@ -7,6 +7,10 @@
 # 3. Create nested loop to iterate over the i+1 items
 # 4. Do comparison, if item at j < item at min_index store as min_index
 # 5. Swap values AFTER the current iteration finishes
+# 
+# Time Complexity: O(n^2) because of the nested loops.
+# Space Complexity: O(1) because it is an in-place swap therefore, 
+# no extra memory is being used.
 # =========================================================================
 # SELECTION SORT FUNCTION
 def selection_sort(array):
@@ -21,7 +25,7 @@ def selection_sort(array):
     return array
 # MAIN FUNCTION
 def main():
-    my_list = [4,2,6,5,1,3]
+    my_list = [30,45,10,20,1]
     print(selection_sort(my_list))
     
     

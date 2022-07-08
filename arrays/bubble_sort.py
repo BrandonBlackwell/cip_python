@@ -1,9 +1,12 @@
 # Bubble Sort Algo
-# Start with first item and compare to second item
-# If item is larger than second item, switch items
-# Repeat process until the end of list is reached.
-# Now start process again and compare 
+# 1. Start with first item and compare to second item
+# 2. If item is larger than second item, switch items
+# 3. Repeat process until the end of list is reached.
+# 4. Now start process again and compare 
 # until end of list - 1 is reached
+#
+# Time Complexity: O(n^2) because of the nested loops
+# Space Complexity: O(1) because it is an an place swap so no extra memory is being allocated.
 
 
 
