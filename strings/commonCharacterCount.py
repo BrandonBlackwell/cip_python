@@ -1,5 +1,5 @@
 # Code Signal's common char count
-# Time Complexity: O(n log n) after drooping all the constants
+# Time Complexity: O(n log n) after droping all the constants
 # Space Complexity:  O(n) <- O(2n) -> two dict's are created so that would be 2 x the number of items in s1(n represents the number of items)
 ########################################
 # ALGORITHM
